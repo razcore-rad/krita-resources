@@ -1,0 +1,2 @@
+*.kra filter=lfs diff=lfs merge=lfs -text
+*.kra !text !filter !merge !diff
