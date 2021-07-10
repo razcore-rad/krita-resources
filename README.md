@@ -4,11 +4,11 @@ Download the bundle from the [Releases](https://github.com/razcore-rad/krita-res
 
 Made with Krita-5.0.0-prealpha-ebe5933.
 
-## 140 Brushes
+## 141 Brushes
 
 ![](readme/01-brushes.png)
 
-## 22 Paintoppresets
+## 24 Paintoppresets
 
 ![](readme/02-paintoppresets.jpg)
 
@@ -20,17 +20,13 @@ Made with Krita-5.0.0-prealpha-ebe5933.
 
 ![](readme/04-patterns.png)
 
-## 1 Shortcuts File
-
-![](readme/05-shortcuts.png)
-
 ## 4 Templates
 
-![](readme/06-templates.png)
+![](readme/05-templates.png)
 
 ## 1 Workspace
 
-![](readme/07-workspace.png)
+![](readme/06-workspace.png)
 
 ## License
 
