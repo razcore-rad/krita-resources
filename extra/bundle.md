@@ -8,7 +8,7 @@ Email: razcore.rad@gmail.com
 
 ## PaintopPresets
 
-`f) Bristles RazcoreRad`: deevad-2019_ellipse-dots
+`f) Bristles RazcoreRad`: chisel_knife
 `g) Abstract RazcoreRad`: Rock Light
 `g) Full RazcoreRad`: oil_bristle
 `g) Scribbles RazcoreRad`: scribbles
