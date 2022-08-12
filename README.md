@@ -4,11 +4,11 @@ Download the bundle from the [Releases](https://github.com/razcore-rad/krita-res
 
 Made with Krita-5.0.0-prealpha-ebe5933.
 
-## 141 Brushes
+## 14 Brushes
 
 ![](readme/01-brushes.png)
 
-## 23 Paintoppresets
+## 24 Paintoppresets
 
 ![](readme/02-paintoppresets.jpg)
 
