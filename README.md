@@ -2,9 +2,9 @@
 
 Download the bundle from the [Releases](https://github.com/razcore-rad/krita-resources/releases) page.
 
-Made with Krita-5.0.0-prealpha-ebe5933.
+Made with Krita 5.1.0-RC1 (git 8201554).
 
-## 14 Brushes
+## 13 Brushes
 
 ![](readme/01-brushes.png)
 

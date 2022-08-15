@@ -5,5 +5,6 @@ set KRITA_RESOURCE_DIRS (ls {$PROJECT_DIR}/krita)
 set SUFFIX "RazcoreRad"
 
 for dir in {$KRITA_RESOURCE_DIRS}
-  cp -r {$KRITA_RESOURCES_DIR}/{$dir}/*{$SUFFIX}* {$PROJECT_DIR}/krita/{$dir}
+  rm -f {$PROJECT_DIR}/krita/{$dir}/*
+  cp {$KRITA_RESOURCES_DIR}/{$dir}/*{$SUFFIX}* {$PROJECT_DIR}/krita/{$dir}
 end
