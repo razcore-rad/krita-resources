@@ -8,7 +8,7 @@ Made with Krita 5.1.0-RC1 (git 8201554).
 
 ![](readme/01-brushes.png)
 
-## 24 Paintoppresets
+## 28 Paintoppresets
 
 ![](readme/02-paintoppresets.jpg)
 
