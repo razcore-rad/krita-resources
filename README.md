@@ -2,15 +2,15 @@
 
 Download the bundle from the [Releases](https://github.com/razcore-rad/krita-resources/releases) page.
 
-Made with Krita 5.1.0-RC1 (git 8201554).
+Made with Krita 5.2.0-RC1.
 
 ## 13 Brushes
 
 ![](readme/01-brushes.png)
 
-## 28 Paintoppresets
+## 21 Paintoppresets
 
-![](readme/02-paintoppresets.jpg)
+![](readme/02-paintoppresets.png)
 
 ## 1 Palette
 
