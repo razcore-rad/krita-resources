@@ -2,7 +2,7 @@
 
 Download the bundle from the [Releases](https://github.com/razcore-rad/krita-resources/releases) page.
 
-Made with Krita 5.2.0-RC1.
+Made with Krita 5.2.1
 
 ## 13 Brushes
 
@@ -12,21 +12,17 @@ Made with Krita 5.2.0-RC1.
 
 ![](readme/02-paintoppresets.png)
 
-## 1 Palette
-
-![](readme/03-palettes.png)
-
 ## 1 Pattern
 
-![](readme/04-patterns.png)
+![](readme/03-patterns.png)
 
 ## 4 Templates
 
-![](readme/05-templates.png)
+![](readme/04-templates.png)
 
 ## 1 Workspace
 
-![](readme/06-workspace.png)
+![](readme/05-workspace.png)
 
 ## License
 
